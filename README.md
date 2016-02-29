@@ -86,10 +86,19 @@ to exit from the application.
 
 ## Application Structure##
 
-Two models have been used in this application named Robot and RobotPositions. A Robot has many RobotPositions. All models exists at 
-||models/
+Two models have been used in this application named **Robot** and **RobotPositions**. A Robot has many RobotPositions. All models exists at
+
+--models/
+
 directory.
+
 To facilitates the models there are several services used in the 
+
 ||services/
-directory. Such as *RobotMove* for the movements of the Robot, *Print* for the reporting of RobotPositions and *Command* for executing Commands.
-*TableTop* is the blue print of the TableTop where the Robots will move.
+
+directory. Such as 
+-- **RobotMove** for the movements of the Robot, 
+-- **Print** for the reporting of RobotPositions
+-- **Command** for executing Commands.
+
+**TableTop** is the blue print of the TableTop where the Robots will move.
