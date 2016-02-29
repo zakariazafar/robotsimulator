@@ -73,14 +73,13 @@ Any move that would cause the robot to fall must be ignored.
 
 ## Install and Execute##
 
-From your terminal clone the repository by writing
-| git@github.com:zakariazafar/robotsimulator.git
+From your terminal clone the repository or download the source file and enter to the application root directory.
 
-then >> cd robotsimulator
-to enter into the directory
+Then execute
 
-execute >> ruby main.rb
+    ruby main.rb
 
 Start entering the commands.
 
-Enter **-1** to exit from the application.
+    -1
+to exit from the application.
