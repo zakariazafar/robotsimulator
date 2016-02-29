@@ -96,9 +96,10 @@ To facilitates the models there are several services used in the
 
 ||services/
 
-directory. Such as 
--- **RobotMove** for the movements of the Robot, 
--- **Print** for the reporting of RobotPositions
--- **Command** for executing Commands.
+directory. Such as
+
+- **RobotMove** for the movements of the Robot, 
+- **Print** for the reporting of RobotPositions
+- **Command** for executing Commands.
 
 **TableTop** is the blue print of the TableTop where the Robots will move.
